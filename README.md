@@ -15,7 +15,7 @@ I'm a **Software Engineer** passionate about building technology that **solves r
 - **DevOps:** Git, Docker, Jira, Confluence
 
 ## How to reach me?  
-📧 **ismailaouladtouhami@gmail.com** 💼 [LinkedIn](https://www.linkedin.com/in/ismailaouladtouhami/)  
+📧 **ismailaouladtouhami@gmail.com** 💼 [LinkedIn](https://www.linkedin.com/in/ismail-aoulad-touhami/)  
 
 ---
 
