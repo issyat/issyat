@@ -1,7 +1,7 @@
 # Hi there, I'm Ismail 👋
 
 ## Who am I?  
-I'm a **Software Engineer** passionate about building technology that **solves real problems**. I specialize in turning complex ideas into **scalable, user-centric products** a mindset that recently helped me win **2nd place at the Stripe Agentic Payments Hackathon**. Whether I'm architecting secure backend systems or modern web interfaces, I build with the user in mind.
+I'm a **Software Engineer** passionate about building technology that **solves real problems**. I specialize in turning complex ideas into **scalable, user-centric products** a mindset that recently helped me win **[2nd place at the Stripe Agentic Payments Hackathon](https://github.com/issyat/Hackathon-Stripe)**. Whether I'm architecting secure backend systems or modern web interfaces, I build with the user in mind.
 
 ## What am I currently working on?  
 - 💡 Developing my own venture within the **StartLab.Brussels** incubator.  
