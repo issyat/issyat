@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Ismail 👋
 
-<!--
-**issyat/issyat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?  
+I'm a **Software Engineer** passionate about building technology that **solves real problems**. I specialize in turning complex ideas into **scalable, user-centric products**—a mindset that recently helped me win **2nd place at the Stripe Agentic Payments Hackathon**. Whether I'm architecting secure backend systems or modern web interfaces, I build with the user in mind.
 
-Here are some ideas to get you started:
+## What am I currently working on?  
+- 💡 Developing my own venture within the **StartLab.Brussels** incubator.  
+- 🤖 Building **AI-powered solutions** and exploring **agentic workflows**.  
+- 🚀 Competing in **technical challenges** to build high-quality prototypes under pressure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I use  
+- **Backend:** Java (Spring Boot), Node.js (Express), Microservices, REST APIs  
+- **Frontend:** React, Angular, HTML/CSS, TypeScript  
+- **Data & Security:** PostgreSQL, MySQL, MongoDB, Keycloak (Auth)  
+- **DevOps:** Git, Docker, Jira, Confluence
+
+## How to reach me?  
+📧 **ismailaouladtouhami@gmail.com** 💼 [LinkedIn](https://www.linkedin.com/in/ismailaouladtouhami/)  
+
+---
+
+✨ **Fun fact:** I’m a "learning machine." I love the high-pressure environment of hackathons because it’s the fastest way to turn a "what if" into a working piece of software.
